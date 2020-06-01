@@ -1,0 +1,1 @@
+export const SESSION_SECRET = '&@h_Ft*nVE85Ge2xtV!U'
